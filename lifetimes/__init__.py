@@ -10,6 +10,7 @@ from .fitters.gamma_gamma_fitter import GammaGammaFitter
 
 __all__ = (
     "__version__",
+    "BaseFitter",
     "BetaGeoFitter",
     "ParetoNBDFitter",
     "GammaGammaFitter",
